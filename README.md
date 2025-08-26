@@ -22,16 +22,22 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/abhay-singh-16a492329" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
+  <!-- X (Twitter) -->
   <a href="https://twitter.com/abhay_0103" target="_blank">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/Abhay-0103" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
 </p>
+
 
 ---
 
