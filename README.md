@@ -13,7 +13,7 @@
 
 <h2 align="center">👨‍💻 Abhay Singh</h2>
 <p align="center">
-  <em>Full Stack Developer | AI Enthusiast | Problem Solver</em>
+  Full Stack Developer | AI Enthusiast | Problem Solver
 </p>
 
 <p align="center">
