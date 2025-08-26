@@ -1,21 +1,19 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://github.com/Abhay-0103/Abhay-0103/blob/main/WhatsApp%20Image%202025-08-26%20at%208.18.13%20PM.jpeg" 
-       alt="Abhay Singh"
-       width="220" height="220"
-       style="
-         border-radius: 50%;
-         border: 5px solid transparent;
-         background-image: linear-gradient(white, white), linear-gradient(135deg, #0a66c2, #00c6ff, #0077b5);
-         background-origin: border-box;
-         background-clip: content-box, border-box;
-         box-shadow: 0 6px 25px rgba(0,0,0,0.35);
-         transition: transform 0.3s ease, box-shadow 0.3s ease;
-       "
-       onmouseover="this.style.transform='scale(1.07)'; this.style.boxShadow='0 10px 30px rgba(0,0,0,0.5)';"
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 25px rgba(0,0,0,0.35)';"
+  <img 
+    src="https://github.com/Abhay-0103/Abhay-0103/blob/main/WhatsApp%20Image%202025-08-26%20at%208.18.13%20PM.jpeg" 
+    alt="Abhay Singh"
+    width="220"
+    style="
+      border-radius: 50%;
+      border: 4px solid #0A66C2;
+      box-shadow: 0px 8px 25px rgba(0, 102, 204, 0.5);
+      background: linear-gradient(135deg, #0a66c2, #00c6ff);
+      padding: 5px;
+    "
   />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
