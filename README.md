@@ -1,20 +1,12 @@
 <!-- Profile Header -->
 <p align="center">
-  <img 
-    src="https://github.com/Abhay-0103/Abhay-0103/blob/main/WhatsApp%20Image%202025-08-26%20at%208.18.13%20PM.jpeg" 
-    alt="Abhay Singh"
-    width="180"
-    style="border-radius: 50%; border: 3px solid #0a66c2; box-shadow: 0 0 20px rgba(10,102,194,0.6);" 
-  />
+  <img src="https://github.com/Abhay-0103/Abhay-0103/blob/main/WhatsApp%20Image%202025-08-26%20at%208.18.13%20PM.jpeg" alt="Abhay Singh" 
+       width="200" height="200" style="border-radius:50%; border: 4px solid #0a66c2; box-shadow: 0px 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Abhay Singh</h1>
+<h3 align="center">🚀 A Passionate Full Stack Developer | Building Scalable Web Apps & Exploring New Tech</h3>
 
-
-
-<h2 align="center">👨‍💻 Abhay Singh</h2>
-<p align="center">
-  Full Stack Developer | AI Enthusiast | Problem Solver
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhay-singh-16a492329/">
