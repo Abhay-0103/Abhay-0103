@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://github.com/Abhay-0103/Abhay-0103/blob/main/WhatsApp%20Image%202025-08-26%20at%208.03.28%20PM.jpeg" alt="Abhay Singh" 
+  <img src="https://github.com/Abhay-0103/Abhay-0103/blob/main/WhatsApp%20Image%202025-08-26%20at%208.18.13%20PM.jpeg" alt="Abhay Singh" 
        width="200" height="200" style="border-radius:50%; border: 4px solid #0a66c2; box-shadow: 0px 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
