@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/170385922?v=4" alt="Abhay Singh" 
+  <img src="https://drive.google.com/file/d/1zz3JutFYtzoYYeRHCo5D5Q_pzN9EK-k9/view?usp=drivesdk" alt="Abhay Singh" 
        width="200" height="200" style="border-radius:50%; border: 4px solid #0a66c2; box-shadow: 0px 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
