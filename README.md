@@ -1,4 +1,5 @@
 <!-- Profile Header -->
+<!-- Profile Header -->
 <p align="center">
   <img 
     src="https://github.com/Abhay-0103/Abhay-0103/blob/main/WhatsApp%20Image%202025-08-26%20at%208.18.13%20PM.jpeg" 
@@ -6,13 +7,16 @@
     width="220"
     style="
       border-radius: 50%;
-      border: 4px solid #00c6ff;
-      box-shadow: 0 8px 25px rgba(0, 198, 255, 0.5);
-      background: linear-gradient(135deg, #0a66c2, #00c6ff);
+      border: 4px solid transparent;
+      background: linear-gradient(135deg, #00c6ff, #0a66c2, #8a2be2);
+      background-origin: border-box;
+      background-clip: content-box, border-box;
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5), 0 0 15px rgba(0, 198, 255, 0.6);
       padding: 6px;
     "
   />
 </p>
+
 
 <h2 align="center">👨‍💻 Abhay Singh</h2>
 <p align="center">
