@@ -6,13 +6,23 @@
     width="220"
     style="
       border-radius: 50%;
-      border: 4px solid #0A66C2;
-      box-shadow: 0px 8px 25px rgba(0, 102, 204, 0.5);
+      border: 4px solid #00c6ff;
+      box-shadow: 0 8px 25px rgba(0, 198, 255, 0.5);
       background: linear-gradient(135deg, #0a66c2, #00c6ff);
-      padding: 5px;
+      padding: 6px;
     "
   />
 </p>
+
+<h2 align="center">👨‍💻 Abhay Singh</h2>
+<p align="center">
+  <em>Full Stack Developer | AI Enthusiast | Problem Solver</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhay-singh-16a492329/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whi
+
 
 
 
