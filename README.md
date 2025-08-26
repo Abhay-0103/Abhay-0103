@@ -1,7 +1,6 @@
 <!-- Profile Header -->
-<!-- Profile Header -->
 <p align="center">
-  <img src="" alt="Abhay Singh" 
+  <img src="https://photos.app.goo.gl/DJuNGVBo2X6eqZ127" alt="Abhay Singh" 
        width="200" height="200" style="border-radius:50%; border: 4px solid #0a66c2; box-shadow: 0px 4px 20px rgba(0,0,0,0.3);" />
 </p>
 
