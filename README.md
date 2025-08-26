@@ -3,16 +3,11 @@
   <img 
     src="https://github.com/Abhay-0103/Abhay-0103/blob/main/WhatsApp%20Image%202025-08-26%20at%208.18.13%20PM.jpeg" 
     alt="Abhay Singh"
-    width="230"
-    style="
-      border-radius: 50%;
-      border: 5px solid transparent;
-      background: linear-gradient(135deg, #00c6ff, #0072ff) border-box;
-      box-shadow: 0 8px 30px rgba(0, 198, 255, 0.4), 0 0 15px rgba(0,114,255,0.6);
-      padding: 4px;
-    "
+    width="180"
+    style="border-radius: 50%; border: 3px solid #0a66c2; box-shadow: 0 0 20px rgba(10,102,194,0.6);" 
   />
 </p>
+
 
 
 
