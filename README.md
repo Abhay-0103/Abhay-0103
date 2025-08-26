@@ -1,12 +1,8 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/00000000?v=4](https://avatars.githubusercontent.com/u/170385922?v=4)" alt="Abhay Singh" 
+  <img src="[[https://avatars.githubusercontent.com/u/00000000?v=4](https://avatars.githubusercontent.com/u/170385922?v=4)](https://avatars.githubusercontent.com/u/170385922?v=4)" alt="Abhay Singh" 
        width="200" height="200" style="border-radius:50%; border: 4px solid #0a66c2; box-shadow: 0px 4px 20px rgba(0,0,0,0.3);" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Abhay Singh</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer | Building Scalable Web Apps & Exploring New Tech</h3>
-
 
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer | Building Scalable Web Apps & Exploring New Tech</h3>
