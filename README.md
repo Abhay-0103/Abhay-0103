@@ -23,20 +23,24 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/abhay-singh-16a492329" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/abhay-singh-16a492329" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" 
+         alt="LinkedIn" height="40" style="border-radius:12px; box-shadow:0px 4px 10px rgba(10,102,194,0.5);" />
   </a>
   
-  <!-- X (Twitter) -->
-  <a href="https://twitter.com/abhay_0103" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  <!-- X (Twitter / X) -->
+  <a href="https://twitter.com/abhay_0103" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=000000" 
+         alt="X" height="40" style="border-radius:12px; box-shadow:0px 4px 10px rgba(0,0,0,0.5);" />
   </a>
   
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Abhay-0103" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/Abhay-0103" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=F89F1B&color=F89F1B" 
+         alt="LeetCode" height="40" style="border-radius:12px; box-shadow:0px 4px 10px rgba(248,159,27,0.5);" />
   </a>
 </p>
+
 
 
 ---
