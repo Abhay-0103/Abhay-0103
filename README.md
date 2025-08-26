@@ -13,7 +13,7 @@
 
 - 🔭 Currently working on: **Full Stack Projects & Experiments**  
 - 🌱 Learning: **Java, Spring Boot, and Advanced Backend Concepts**  
-- 👨‍💻 My Projects: [GitHub Portfolio](https://github.com/Abhay-0103)  
+- 👨‍💻 My Protfolio: https://abhaysinghrajput.vercel.app/  
 - 💬 Ask me about: **Web Development, Programming, DSA**  
 - 📫 Reach me: **ab0321054@gmail.com**  
 
