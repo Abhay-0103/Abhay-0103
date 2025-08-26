@@ -7,17 +7,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Singh</h1>
 <h3 align="center">🚀 A Passionate Full Stack Developer | Building Scalable Web Apps & Exploring New Tech</h3>
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhay-singh-16a492329/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whi
-
-
-
-
-<h1 align="center">Hi 👋, I'm Abhay Singh</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer | Building Scalable Web Apps & Exploring New Tech</h3>
-
 <!-- Profile Views & Trophies -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhay-0103&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
