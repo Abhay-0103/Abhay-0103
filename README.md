@@ -17,7 +17,7 @@
 ## 🌟 About Me  
 
 - 🔭 Currently working on: **Full Stack Projects & Experiments**  
-- 🌱 Learning: **Java, Spring Boot, and Advanced Backend Concepts**  
+- 🌱 Learning: **Spring Boot and Advanced Backend Concepts**  
 - 👨‍💻 My Protfolio: https://abhaysinghrajput.vercel.app/  
 - 💬 Ask me about: **Web Development, Programming, DSA**  
 - 📫 Reach me: **ab0321054@gmail.com**  
