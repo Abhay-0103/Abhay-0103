@@ -3,7 +3,7 @@
 <div align="center">
   <img 
     src="Gemini_Generated_Image_qmukdtqmukdtqmuk.png" 
-    alt="Abhay Singh" 
+    alt="Image" 
     style="
       width: 220px;
       height: 220px;
@@ -23,7 +23,12 @@
   <img src="https://komarev.com/ghpvc/?username=Abhay-0103&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meghanathmc" alt="meghanathmc" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abhay-0103&theme=darkhub" alt="Abhay Singh" />
+  </a>
+</p>
+
 
 ---
 
