@@ -6,7 +6,7 @@
     alt="Image"
     loading="lazy"
     width="600"
-    height="400"
+    height="100"
     style="max-width:100%;height:auto;"
   />
 </div>
