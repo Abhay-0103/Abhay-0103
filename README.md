@@ -5,7 +5,7 @@
   src="Luffy.png"
     alt="Image"
     loading="lazy"
-    width="auto"
+    width="600"
     height="250"
     style="max-width:100%;height:auto;"
   />
