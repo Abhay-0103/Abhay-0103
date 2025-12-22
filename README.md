@@ -27,13 +27,12 @@
 
 <br/>
 
-<!-- ===================== BADGES ===================== -->
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhay-0103&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p>
+<!-- ===================== PROFILE VIEW BADGE ===================== -->
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Abhay-0103&theme=onestar&no-frame=true&row=1&column=7" 
+    src="https://komarev.com/ghpvc/?username=Abhay-0103&label=Profile%20Views&color=0e75b6&style=flat" 
+    alt="profile views" 
   />
 </p>
 
@@ -70,24 +69,15 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/abhay-singh-16a492329" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Abhay%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      height="38"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
   </a>
   &nbsp;
   <a href="https://x.com/abhay_0103" target="_blank">
-    <img
-      src="https://img.shields.io/badge/X-@abhay_0103-000000?style=for-the-badge&logo=x&logoColor=white"
-      height="38"
-    />
+    <img src="https://img.shields.io/badge/X-@abhay_0103-000000?style=for-the-badge&logo=x&logoColor=white" height="38" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/Abhay-0103" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LeetCode-Abhay%20Singh-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"
-      height="38"
-    />
+    <img src="https://img.shields.io/badge/LeetCode-Abhay%20Singh-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" height="38" />
   </a>
 </p>
 
@@ -134,24 +124,43 @@
 
 ---
 
-## 📈 GitHub Analytics  
+<!-- ===================== COLLAPSIBLE TROPHIES ===================== -->
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Abhay-0103&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-0103&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
+<details>
+  <summary><strong>🏆 GitHub Trophies</strong></summary>
+  <br/>
+  <p align="center">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=Abhay-0103&theme=onestar&no-frame=true&row=1&column=7"
+      alt="GitHub Trophies"
+    />
+  </p>
+</details>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Abhay-0103&theme=tokyonight&hide_border=true"
-  />
-</p>
+---
+
+<!-- ===================== COLLAPSIBLE ANALYTICS ===================== -->
+
+<details>
+  <summary><strong>📈 GitHub Analytics</strong></summary>
+  <br/>
+  <p align="center">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Abhay-0103&show_icons=true&theme=tokyonight&hide_border=true" 
+      height="170"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-0103&layout=compact&theme=tokyonight&hide_border=true" 
+      height="170"
+    />
+  </p>
+
+  <p align="center">
+    <img 
+      src="https://streak-stats.demolab.com?user=Abhay-0103&theme=tokyonight&hide_border=true"
+    />
+  </p>
+</details>
 
 ---
 
