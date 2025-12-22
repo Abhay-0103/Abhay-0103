@@ -1,117 +1,102 @@
-<!-- ===================== PROFILE BANNER ===================== -->
+<!-- ===================== HERO SECTION ===================== -->
 
 <p align="center">
-  <img src="Luffy.png" alt="Banner" width="900" height="300" style="max-width:100%; border-radius:16px;" />
+  <img src="Luffy.png" width="100%" style="border-radius:20px;" />
 </p>
 
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#4FC3F7;">Abhay Singh</span>
+  Hi, I'm <span style="color:#38BDF8;">Abhay Singh</span> 👋
 </h1>
 
-<h3 align="center">
-  🚀 Full Stack Developer | MERN & Next.js Specialist | Problem Solver
-</h3>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+React;Building+Modern+Web+Experiences;Learning.+Building.+Shipping."
+  />
+</p>
 
 <p align="center">
   <em>
-    Crafting scalable, high-performance web applications with clean architecture  
-    and modern UI/UX principles.
+    Turning ideas into fast, scalable & beautiful web applications.
   </em>
 </p>
 
-<br/>
+---
 
-<!-- ===================== BADGES ===================== -->
+<!-- ===================== STATS BADGES ===================== -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhay-0103&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Abhay-0103&label=Profile%20Views&color=38BDF8&style=flat-square" />
   <img src="https://img.shields.io/github/followers/Abhay-0103?label=Followers&style=flat-square" />
   <img src="https://img.shields.io/github/stars/Abhay-0103?label=Stars&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhay-0103&theme=onestar&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhay-0103&theme=algolia&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
+## 🧠 About Me  
 
-🔹 Passionate **Full Stack Developer** with strong fundamentals in **DSA & system design**  
-🔹 Focused on **scalable architectures**, clean code & performance optimization  
-🔹 Constantly exploring **modern frameworks, DevOps & AI-powered applications**
+🚀 Full Stack Developer who loves **clean UI**, **smooth UX**, and **solid backend logic**  
+🧩 Enjoys solving problems & building real-world products  
+⚡ Constantly exploring **modern frameworks, tools & AI-powered ideas**
 
-### 🔍 Current Focus
-- 🔭 Building **production-grade full stack applications**
-- 🌱 Deep diving into **advanced backend & frontend patterns**
-- ⚡ Improving **problem-solving & competitive coding skills**
+- 🔭 Building full-stack projects  
+- 🌱 Learning deeper system & frontend patterns  
+- 🧠 Improving DSA & real-world coding skills  
 
-### 🌐 Portfolio
-🔗 **https://abhaysinghrajput.vercel.app**
-
-### 📫 Contact
-📧 **ab0321054@gmail.com**
+🌐 **Portfolio:** https://abhaysinghrajput.vercel.app  
+📩 **Email:** ab0321054@gmail.com  
 
 ---
 
-## 🌐 Connect With Me  
+## 🌍 Let’s Connect  
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhay-singh-16a492329" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/abhay-singh-16a492329">
+    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/abhay_0103" target="_blank">
-    <img src="https://img.shields.io/badge/X-@abhay_0103-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <a href="https://x.com/abhay_0103">
+    <img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Abhay-0103" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Abhay%20Singh-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="https://leetcode.com/u/Abhay-0103">
+    <img src="https://img.shields.io/badge/LeetCode-FACC15?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧰 Tech Stack  
 
-### 💻 Programming Languages
+### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-Professional-007396?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python"/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python" />
 </p>
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-Expert-000000?style=for-the-badge&logo=nextdotjs"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-Advanced-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/Bootstrap-Advanced-7952B3?style=for-the-badge&logo=bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 <p>
-  <img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-Advanced-000000?style=for-the-badge&logo=express"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Database
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-Advanced-4EA94B?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-316192?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/MySQL-Intermediate-005C84?style=for-the-badge&logo=mysql"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
-### 🧰 Tools & DevOps
+### 🔧 Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-GitFlow-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-Collaboration-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Linux-CLI%20Power%20User-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
 </p>
 
 ---
 
-## 📈 GitHub Analytics  
+## 📊 GitHub Activity  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhay-0103&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
@@ -124,6 +109,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=120&section=footer"/>
+</p>
+
 <h3 align="center">
-  💡 “Code with clarity. Build with purpose. Scale with confidence.”
+  ✨ Build cool things. Stay curious. Keep shipping.
 </h3>
