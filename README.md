@@ -1,20 +1,26 @@
 <!-- ===================== PROFILE BANNER ===================== -->
 
 <p align="center">
-  <img src="Luffy.png" alt="Banner" width="900" height="300" style="max-width:100%; border-radius:16px;" />
+  <img 
+    src="Luffy.png" 
+    alt="Banner" 
+    width="900" 
+    height="300" 
+    style="max-width:100%; border-radius:16px;" 
+  />
 </p>
 
 <h1 align="center">
-   Hi, I'm <span style="color:#4FC3F7;">Abhay Singh</span>
+  👋 Hi, I'm <span style="color:#4FC3F7;">Abhay Singh</span>
 </h1>
 
 <h3 align="center">
-  Full Stack Developer | MERN & Next.js Specialist | Problem Solver
+  Full Stack Developer | MERN & Next.js | Problem Solver
 </h3>
 
 <p align="center">
   <em>
-    Crafting scalable, high-performance web applications with clean architecture  
+    Crafting scalable, high-performance web applications with clean architecture
     and modern UI/UX principles.
   </em>
 </p>
@@ -30,20 +36,22 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhay-0103&theme=onestar&no-frame=true&row=1&column=7" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Abhay-0103&theme=onestar&no-frame=true&row=1&column=7" 
+  />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
 
-🔹 Passionate **Full Stack Developer** with strong fundamentals in **DSA & system design**  
-🔹 Focused on **scalable architectures**, clean code & performance optimization  
-🔹 Constantly exploring **modern frameworks, DevOps & AI-powered applications**
+- 🔹 Passionate **Full Stack Developer** with strong fundamentals in **DSA & system design**
+- 🔹 Focused on **scalable architectures**, clean code & performance optimization
+- 🔹 Exploring **modern frameworks, DevOps & AI-powered applications**
 
 ### 🔍 Current Focus
 - 🔭 Building **production-grade full stack applications**
-- 🌱 Deep diving into **advanced backend & frontend patterns**
+- 🌱 Learning **advanced frontend & backend patterns**
 - ⚡ Improving **problem-solving & competitive coding skills**
 
 <!-- ===================== PORTFOLIO & CONTACT ===================== -->
@@ -133,16 +141,24 @@
 ## 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhay-0103&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-0103&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Abhay-0103&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-0103&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhay-0103&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=Abhay-0103&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
 
 <h3 align="center">
-  💡 “Code with clarity. Build with purpose. Scale with confidence.”
+  💡 Code with clarity. Build with purpose. Scale with confidence.
 </h3>
