@@ -29,11 +29,7 @@
 
 <!-- ===================== BADGES ===================== -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhay-0103&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Abhay-0103?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/Abhay-0103?label=Stars&style=flat-square" />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhay-0103&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <p align="center">
   <img 
