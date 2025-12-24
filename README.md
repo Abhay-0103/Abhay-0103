@@ -40,9 +40,9 @@
 
 ## 🧑‍💻 About Me  
 
-- 🔹 Passionate **Full Stack Developer** with strong fundamentals in **DSA & system design**
-- 🔹 Focused on **scalable architectures**, clean code & performance optimization
-- 🔹 Exploring **modern frameworks, DevOps & AI-powered applications**
+- Passionate **Full Stack Developer** with strong fundamentals in **DSA & system design**
+- Focused on **scalable architectures**, clean code & performance optimization
+- Exploring **modern frameworks, DevOps & AI-powered applications**
 
 ### 🔍 Current Focus
 - 🔭 Building **production-grade full stack applications**
