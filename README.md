@@ -53,8 +53,8 @@
 
 <p align="center">
   🌐 <strong>Portfolio</strong> ·
-  <a href="https://abhaysinghrajput.vercel.app" target="_blank">
-    abhaysinghrajput.vercel.app
+  <a href="https://abhaysinghrajput.in" target="_blank">
+    abhaysinghrajput.in
   </a>
   <br/>
   📫 <strong>Email</strong> ·
@@ -79,6 +79,9 @@
   <a href="https://leetcode.com/u/Abhay-0103" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Abhay%20Singh-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" height="38" />
   </a>
+<a href="https://abhaysinghrajput.in" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-abhaysinghrajput.in-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" height="38" />
+</a>
 </p>
 
 ---
