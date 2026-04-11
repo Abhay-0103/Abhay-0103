@@ -72,11 +72,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-Abhay%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
   </a>
   &nbsp;
-  <a href="https://x.com/abhay_0103" target="_blank">
+  <a href="https://x.com/abhayyy_0103" target="_blank">
     <img src="https://img.shields.io/badge/X-@abhay_0103-000000?style=for-the-badge&logo=x&logoColor=white" height="38" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/Abhay-0103" target="_blank">
+  <a href="https://leetcode.com/u/Abhayyy_0103" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Abhay%20Singh-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" height="38" />
   </a>
 <a href="https://abhaysinghrajput.in" target="_blank">
@@ -153,17 +153,17 @@
   <p align="center">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=Abhay-0103&show_icons=true&theme=tokyonight&hide_border=true" 
-      height="170"
+      height="170" alt="Github Stats"
     />
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-0103&layout=compact&theme=tokyonight&hide_border=true" 
-      height="170"
+      height="170" alt="Top Language"
     />
   </p>
 
   <p align="center">
     <img 
-      src="https://streak-stats.demolab.com?user=Abhay-0103&theme=tokyonight&hide_border=true"
+      src="https://streak-stats.demolab.com?user=Abhay-0103&theme=tokyonight&hide_border=true" alt="Streak"
     />
   </p>
 </details>
